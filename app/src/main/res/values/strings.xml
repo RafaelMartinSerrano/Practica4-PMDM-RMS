@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica4-PMDM-RMS</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_email">Email:</string>
+    <string name="btn_guarda">Guardar Registro</string>
+    <string name="menu_nuevo">Nuevo Registro</string>
+</resources>
